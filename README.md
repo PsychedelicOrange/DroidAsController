@@ -11,6 +11,7 @@ Have to plug your gaming pc to the tv, want to play in the couch, but don't have
 * You might have to make slight changes to the code to make it work for you.Code is not too complex.
 * Refer to Resources.
 ## Use 
+* [Download](https://github.com/PsychedelicOrange/DroidAsController/releases)
 * Install App on android device. Give permission to access Controller.
 * Download java, vJoy, and x360ce.
 * Connect the phone and pc to same wifi.

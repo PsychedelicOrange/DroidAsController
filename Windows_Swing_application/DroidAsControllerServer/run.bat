@@ -1,0 +1,3 @@
+@echo off
+cd out\production\DroidAsControllerServer
+java DroidAsControllerServer.DroidAsController

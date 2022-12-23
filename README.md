@@ -38,3 +38,4 @@ Reverse engineered this one cause it was'nt open source and did'nt work with man
 ## Further work
 * Add vibration / rumble support
 * Find way to run java apps without command prompt window.
+* Support for multiple controllers

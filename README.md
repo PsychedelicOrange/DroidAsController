@@ -1,8 +1,8 @@
 # DroidAsController
-![logo](./infographics/main_ico.png)
+![logo](https://raw.githubusercontent.com/PsychedelicOrange/DroidAsController/v2.0.0/Windows_Swing_application/DroidAsControllerServer/src/DroidAsControllerServer/icon_pc.png)
 Turns Wired Gamepad into Wireless using Android.
 Have to plug your gaming pc to the tv, want to play in the couch, but don't have a wireless controller ?
-![infographic](./infographics/main.jpg)
+![infographic](https://raw.githubusercontent.com/PsychedelicOrange/DroidAsController/v2.0.0/Windows_Swing_application/DroidAsControllerServer/src/DroidAsControllerServer/main.jpg)
 ## How it works
 * Android acts as a usb host for the controller, gets data from controller and sends it to pc wirelesslly over tcp channel
 * Pc gets the data and feeds it to vJoy,a virtual controller software.
